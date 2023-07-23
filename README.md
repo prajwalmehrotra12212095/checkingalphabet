@@ -1,0 +1,2 @@
+# checkingalphabet
+checking alphabet c++
